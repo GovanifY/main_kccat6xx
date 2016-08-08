@@ -3,6 +3,6 @@
     <project name="GovanifY/android_device_samsung_kccat6xx" path="device/samsung/kccat6xx" remote="github" revision="cm-13.0" /> 
     <project name="GovanifY/android_kernel_samsung_kccat6" path="kernel/samsung/kccat6" remote="github" revision="cm-13.0" /> 
     <project name="GovanifY/android_device_samsung_lentislte-common" path="device/samsung/lentislte-common" remote="github" revision="cm-13.0-cm" /> 
-    <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-13.0" /> 
+    <project name="GovanifY/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-13.0" /> 
 </manifest>
  
