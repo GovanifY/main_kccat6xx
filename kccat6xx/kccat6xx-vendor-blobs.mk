@@ -31,7 +31,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/kccat6xx/proprietary/etc/Headset_cal.acdb:system/etc/Headset_cal.acdb \
     vendor/samsung/kccat6xx/proprietary/etc/Speaker_cal.acdb:system/etc/Speaker_cal.acdb \
     vendor/samsung/kccat6xx/proprietary/lib/libcsd-client.so:system/lib/libcsd-client.so \
-    vendor/samsung/kccat6xx/proprietary/lib/libdetectmodem.so:system/lib/libdetectmodem.so \
     vendor/samsung/kccat6xx/proprietary/lib/libmysound.so:system/lib/libmysound.so \
     vendor/samsung/kccat6xx/proprietary/lib/libssaudio-client.so:system/lib/libssaudio-client.so \
     vendor/samsung/kccat6xx/proprietary/vendor/lib/libacdbmapper.so:system/vendor/lib/libacdbmapper.so \
@@ -309,7 +308,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/kccat6xx/proprietary/vendor/lib/librs_adreno.so:system/vendor/lib/librs_adreno.so \
     vendor/samsung/kccat6xx/proprietary/vendor/lib/librs_adreno_sha1.so:system/vendor/lib/librs_adreno_sha1.so \
     vendor/samsung/kccat6xx/proprietary/vendor/lib/libscale.so:system/vendor/lib/libscale.so \
-    vendor/samsung/kccat6xx/proprietary/vendor/lib/libRSDriverArm.so:system/vendor/lib/libRSDriverArm.so \
     vendor/samsung/kccat6xx/proprietary/vendor/lib/libbccQTI.so:system/vendor/lib/libbccQTI.so \
     vendor/samsung/kccat6xx/proprietary/etc/firmware/a420_pfp.fw:system/etc/firmware/a420_pfp.fw \
     vendor/samsung/kccat6xx/proprietary/etc/firmware/a420_pm4.fw:system/etc/firmware/a420_pm4.fw \
@@ -377,7 +375,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/kccat6xx/proprietary/etc/firmware/rampatch_tlv_2.1.tlv:system/etc/firmware/rampatch_tlv_2.1.tlv \
     vendor/samsung/kccat6xx/proprietary/etc/firmware/rampatch_tlv_3.0.tlv:system/etc/firmware/rampatch_tlv_3.0.tlv \
     vendor/samsung/kccat6xx/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
-    vendor/samsung/kccat6xx/proprietary/vendor/firmware/BT_FW_VER_rampatch_tlv_2.1.tlv:system/vendor/firmware/BT_FW_VER_rampatch_tlv_2.1.tlv \
     vendor/samsung/kccat6xx/proprietary/vendor/firmware/libpn547_fw.so:system/vendor/firmware/libpn547_fw.so \
     vendor/samsung/kccat6xx/proprietary/vendor/lib/rfsa/adsp/libadsp_fd_skel.so:system/vendor/lib/rfsa/adsp/libadsp_fd_skel.so \
     vendor/samsung/kccat6xx/proprietary/vendor/lib/rfsa/adsp/libapps_mem_heap.so:system/vendor/lib/rfsa/adsp/libapps_mem_heap.so \
